@@ -56,8 +56,8 @@ int main()
 <링크>
 
 1. <www.naver.com>
-2. [네이버](www.naver.com)
-3. [네이버](www.naver.com, "네이버 링크 입니다.")
+2. [네이버](https://www.naver.com)
+3. [네이버2](https://www.naver.com, "네이버 링크 입니다.")
 
 <이미지>
 ![텍스트](이미지 경로)
